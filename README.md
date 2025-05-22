@@ -8,15 +8,15 @@ I'm a pretty eclectic person, with a wide range of hobbies - which at the moment
 
 ### What more?
 
--🔭 I’m currently contributing to #mgmtconfig: https://github.com/purpleidea/mgmt
+🔭 I’m currently contributing to #mgmtconfig: https://github.com/purpleidea/mgmt
 
--🌱 I’m currently learning Golang!
+🌱 I’m currently learning Golang!
 
--🌍 I'm originally from Portugal, but recently moved to Kraków, Poland
+🌍 I'm originally from Portugal, but recently moved to Kraków, Poland
 
--📫 How to reach me? Have a look at my personal website: https://lourencovales.github.io/
+📫 How to reach me? Have a look at my personal website: https://lourencovales.github.io/
 
--⚡ Fun fact: the kiwifruit has one of the highest contents of vitamin C of all known fruits - even more than an orange!
+⚡ Fun fact: the kiwifruit has one of the highest contents of vitamin C of all known fruits - even more than an orange!
 
 <!--
 **lourencovales/lourencovales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
