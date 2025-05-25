@@ -10,7 +10,7 @@ I'm a pretty eclectic person, with a wide range of hobbies - which at the moment
 
 🔭 I’m currently contributing to #mgmtconfig: https://github.com/purpleidea/mgmt
 
-🌱 I’m currently learning Golang!
+🌱 I’m currently focusing on improving my Golang!
 
 🌍 I'm originally from Portugal, but recently moved to Kraków, Poland
 
