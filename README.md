@@ -2,17 +2,17 @@
 
 ### Who am I?
 
-Hello there, this is Lourenço! I'm an economist by training, farmer by trade, nerd by passion. Been using GNU/Linux full-time since I built my first PC at 14; with a knack for system administration, I excel at developing new solutions to problems I have - the hacker ethos.
+Hello there, this is Lourenço! I'm an economist by training, farmer by trade, nerd by passion. Been using GNU/Linux full-time since I built my first PC at 14; with a knack for system administration (I manage my own e-mail server, IRC server, private DNS resolver and sinkhole, etc), I excel at developing new solutions to problems I have - the hacker ethos.
 
-I'm a pretty eclectic person, with a wide range of hobbies - which at the moment include gardening, hiking, photography and programming in Golang. Get in touch, and I'm sure we'll hit it off!
+I'm a pretty eclectic person, with a wide range of hobbies. At the moment these include gardening, hiking, photography and programming in Golang. Get in touch, and I'm sure we'll hit it off!
 
 ### What more?
 
 🔭 I’m currently contributing to #mgmtconfig: https://github.com/purpleidea/mgmt
 
-🌱 I’m currently focusing on improving my Golang!
+🌱 Recently I'm focusing on improving my Golang! How? These are my most recent examples: [http-server-go](https://github.com/lourencovales/codecrafters/tree/master/http-server-go) (simple http server written using TCP primitives)
 
-🌍 I'm originally from Portugal, but recently moved to Kraków, Poland
+🌍 I'm originally from Portugal, but I'm now located in Kraków, Poland
 
 📫 How to reach me? Have a look at my personal website: https://lourencovales.github.io/
 
