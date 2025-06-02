@@ -10,7 +10,7 @@ I'm a pretty eclectic person, with a wide range of hobbies. At the moment these 
 
 🔭 I’m currently contributing to #mgmtconfig: https://github.com/purpleidea/mgmt
 
-🌱 Recently I'm focusing on improving my Golang! How? These are my most recent examples: [http-server-go](https://github.com/lourencovales/codecrafters/tree/master/http-server-go) (simple http server written using TCP primitives)
+🌱 Recently I'm focusing on improving my Golang! How? These are the most recent examples: [http-server-go](https://github.com/lourencovales/codecrafters/tree/master/http-server-go) (simple http server written using TCP primitives) and [shell-go](https://github.com/lourencovales/codecrafters/tree/master/shell-go) (a REPL shell written in go)
 
 🌍 I'm originally from Portugal, but I'm now located in Kraków, Poland
 
