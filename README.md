@@ -6,11 +6,13 @@ Hello there, this is Lourenço! I'm an economist by training, farmer by trade, n
 
 I'm a pretty eclectic person, with a wide range of hobbies. At the moment these include gardening, hiking, photography and programming in Golang. Get in touch, and I'm sure we'll hit it off!
 
+You can read my technical blog at [excipio.tech](https://excipio.tech/blog) or you can read my fiction/essays at [Assilvestrar](https://blog.assilvestrar.club)
+
 ### What more?
 
-🔭 I’m currently contributing to #mgmtconfig: https://github.com/purpleidea/mgmt
+💪 Do you need help to break free from big tech? I can probably help! Check [excipio.tech](https://excipio.tech/) and schedule a free call with me!
 
-🌱 Recently I'm focusing on improving my Golang! How? These are the most recent examples: [http-server-go](https://github.com/lourencovales/codecrafters/tree/master/http-server-go) (simple http server written using TCP primitives), [shell-go](https://github.com/lourencovales/codecrafters/tree/master/shell-go) (a REPL shell written) and [bittorrent-go](https://github.com/lourencovales/codecrafters/tree/master/bittorrent-go) (a bittorrent client)
+🌱 Recently I'm focusing on improving my Golang! How? These are the most recent examples: [go-rss-agg](https://github.com/lourencovales/go-rss-agg) (an utility to aggregate rss feeds), [http-server-go](https://github.com/lourencovales/codecrafters/tree/master/http-server-go) (simple http server written using TCP primitives), [shell-go](https://github.com/lourencovales/codecrafters/tree/master/shell-go) (a REPL shell written) and [bittorrent-go](https://github.com/lourencovales/codecrafters/tree/master/bittorrent-go) (a simple. bittorrent client)
 
 🌍 I'm originally from Portugal, but I'm now located in Kraków, Poland
 
